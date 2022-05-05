@@ -33,5 +33,6 @@ public class Main {
         System.out.println("Одинаковые книги, если год поменять? " + firstBook.equals(firstBook_1));
         System.out.println(firstBook.hashCode());
         System.out.println(firstBook_1.hashCode());
+
     }
 }
